@@ -1,7 +1,3 @@
-'''9. Calcule e apresente o volume de uma caixa retangular, utilizando
-a fórmula: VOLUME = COMPRIMENTO * LARGURA * ALTURA'''
-
-
 #Entrada de dados
 comprimento = float(input('Insira o comprimento da caixa: '))
 largura = float(input('Insira a largura da caixa: '))
