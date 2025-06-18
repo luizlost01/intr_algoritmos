@@ -1,4 +1,4 @@
-#
+
 sair = None
 
 while True:
