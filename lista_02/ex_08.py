@@ -1,7 +1,3 @@
-'''
-8. Leia três valores inteiros e apresente-os em ordem crescente (do menor para o maior).
-'''
-
 # Entrada de dados
 a = int(input('Digite o primeiro valor: '))
 b = int(input('Digite o segundo valor: '))

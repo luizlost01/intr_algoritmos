@@ -1,10 +1,3 @@
-'''
-1 Leia os valores de quatro notas escolares de um aluno e calcule a sua media aritmetica,
-apresentando o mensagem “ Aprovado” se a media obtida for maior ou igual a 5 ou a
-mensagem “ Reprovado”, caso contrario. O algoritmo deve informar junto com cada mensagem
-o valor da media obtida.
-'''
-
 # Entrada de dados
 nota1 = float(input("Digite a primeira nota: "))
 nota2 = float(input("Digite a segunda nota: "))

@@ -1,13 +1,3 @@
-'''
-3. Leia os valores de quatro notas escolares de um aluno. O algoritmo deve calcular a media
-aritmética e apresentar a mensagem “ Aprovado” se a media obtida for maior ou igual a 7; caso
-contrario, o algoritmo deve solicitar a nota de exame do aluno e calcular uma nova media
-aritmética entre a nota do exame e a primeira media aritmética (NOVA_MEDIA =
-MEDIA_ANTIGA * 0.6 + EXAME * 0.4). Se o valor da nova media for maior ou igual a 5,
-apresentar a mensagem “ Aprovado em exame” ; caso contrario, apresentar a mensagem “
-Reprovado”. O algoritmo deve também informar com cada mensagem o valor da media obtida.
-'''
-
 # Entrada de dados
 nota1 = float(input("Digite a primeira nota: "))
 nota2 = float(input("Digite a segunda nota: "))
