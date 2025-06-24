@@ -17,7 +17,11 @@ Este repositório contém uma coleção de algoritmos desenvolvidos para a disci
     ```bash
     cd algoritmos
     ```
-3. Execute os algoritmos conforme as instruções em cada arquivo.
+3. Execute os algoritmos conforme as instruções em cada arquivo:
+   ```bash
+    python3 nome do arquivo
+    ```
+   
 
 ## Contribuição
 
