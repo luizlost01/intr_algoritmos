@@ -15,7 +15,7 @@ Este repositório contém uma coleção de algoritmos desenvolvidos para a disci
     ```
 2. Navegue até o diretório:
     ```bash
-    cd algoritmos
+    cd intr_algoritmos
     ```
 3. Execute os algoritmos conforme as instruções em cada arquivo:
    ```bash
