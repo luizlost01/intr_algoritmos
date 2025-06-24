@@ -21,12 +21,3 @@ Este repositório contém uma coleção de algoritmos desenvolvidos para a disci
    ```bash
     python3 nome do arquivo
     ```
-   
-
-## Contribuição
-
-Sinta-se à vontade para sugerir melhorias ou enviar pull requests.
-
-## Licença
-
-Este projeto é apenas para fins educacionais.
