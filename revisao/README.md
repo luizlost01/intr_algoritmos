@@ -16,8 +16,8 @@ Esta pasta contém exercícios de revisão fornecidos pela professora para prepa
 - `ex_09.py` - Exercício 9
 - `ex_10.py` - Exercício 10
 - `ex_11.py` - Exercício 11
-- `ex_12.py` - Exercício 12 - Soma da sequência 3, 6, 9, 12, ... 99
-- `ex_13.py` - Exercício 13 - Contagem de múltiplos de 7 que são pares (1-1000)
+- `ex_12.py` - Exercício 12
+- `ex_13.py` - Exercício 13
 
 ### Lista de Exercicios
 - `ListaRevisao.pdf` - Lista de exercícios em PDF fornecida pela professora
