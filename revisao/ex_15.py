@@ -7,3 +7,4 @@ while v != 0:
         print("Você digitou zero, encerrando o programa.")
     else:
         print(f"Você digitou um número ímpar: {v}, não será impresso.")
+#Decks Esteve aqui 
